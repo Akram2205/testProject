@@ -8,8 +8,8 @@ Cette application web permet de récupérer, stocker et afficher en temps réel 
 ## Instructions d'installation
 
 ### Prérequis
-- Node.js (version X.X.X)
-- MongoDB (ou PostgreSQL selon votre choix)
+- Node.js 
+- MongoDB
 - Git
 
 ### Installation
